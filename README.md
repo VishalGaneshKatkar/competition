@@ -2,4 +2,4 @@
 
 # Link
 
-[LINK](https://vishalganeshkatkar.github.io/competition/)
+[WEBSITE LINK](https://vishalganeshkatkar.github.io/competition/)
